@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-With over 10 years of experience in full stack development and cloud-based solutions, I specialize in creating dynamic and high-performance web applications.
+With over 9 years of experience in full stack development and cloud-based solutions, I specialize in creating dynamic and high-performance web applications.
 My expertise spans a wide range of technologies, including backend languages like Node.js, PHP, Go, Ruby, C#, Python, and Java, and frontend frameworks such as Angular, React, and Vue.js.
 Additionally, I have extensive experience with database management systems, microservices architecture, and DevOps practices.
 
